@@ -1,8 +1,7 @@
 ## Katex и Markdown
 
 
-Этот пример построен на основе репозитория [markdown-it-katex
-(https://github.com/waylonflinn/markdown-it-katex).
+Этот пример построен на основе репозитория [markdown-it-katex](https://github.com/waylonflinn/markdown-it-katex).
 
 Он представляет собой минимальный код веб-страницы, которая 
 порождается средствами `Markdown` и `Katex`.
